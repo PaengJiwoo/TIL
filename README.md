@@ -1,5 +1,5 @@
 # Today I Learned
 
-## [Markdown](markdown/HelloMarkdown.md)
+## [Markdown](Markdown/HelloMarkdown.md)
 ## Git
 ## Github
